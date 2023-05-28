@@ -22,6 +22,7 @@ As a Data Scientist and Air Force seargent I combine analytical skills, ability 
 ## Projetos:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* 
 
 
 ---
