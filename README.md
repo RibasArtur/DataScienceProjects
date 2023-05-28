@@ -3,7 +3,7 @@ My personal Data Science projects.
 
 
 <p align="center">
-  <img src="https://github.com/RibasArtur/DataScienceProjects/blob/main/3d-modern-background-with-connecting-flowing-lines-dots.jpg?raw=true" >
+  <img src="3d-modern-background-with-connecting-flowing-lines-dots.jpg" >
 </p>
 
 # Artur da Silva Ribas
